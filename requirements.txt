@@ -1,0 +1,7 @@
+torch
+torchvision
+pillow
+matplotlib
+tqdm
+qdrant-client
+git+https://github.com/openai/CLIP.git
