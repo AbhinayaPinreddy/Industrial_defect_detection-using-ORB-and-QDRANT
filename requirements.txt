@@ -3,7 +3,8 @@ torchvision
 pillow
 matplotlib
 tqdm
-qdrant-client
+qdrant-client==1.7.3
 opencv-python
 git+https://github.com/openai/CLIP.git
+
 
